@@ -9,12 +9,12 @@ Hello! TorchRecSysMetrics is a library that implements representative metrics of
 
 ### 특징
 - 추천시스템 연구에 맞춘 표준화된 인터페이스를 지원합니다.
-- 모든 메트릭이 효율적인 Top-K 연산을 지원합니다.
+- 모든 메트릭이 Top-K 연산을 지원합니다.
 - Batch단위의 Tensor연산을 통한 효율적인 계산이 가능합니다.
 
 ### Highlights
 - Supports standardized interfaces tailored to recommendation system research.
-- All metrics support efficient Top-K operations.
+- All metrics support Top-K operations.
 - Efficient calculation is possible through Tensor calculation in Batch units.
 
 ## 📥 Installation
@@ -27,7 +27,7 @@ Hello! TorchRecSysMetrics is a library that implements representative metrics of
 ### Rank Aware Metrics
 |Index|Metric                                                                                         |Review        |Implementation|
 |:---:|:---------------------------------------------------------------------------------------------:|:------------:|:------------:|
-|1    |MAP @ k (Mean Average Precision)                                                               |[Link]() |[Link]() |
+|1    |MAP (Mean Average Precision)                                                                   |[Link]() |[Link]() |
 |2    |MRR (Mean Reciprocal Rank)                                                                     |[Link]() |[Link]() |
 |3    |nDCG (normalized Discounted Cumulative Gain)                                                   |[Link]() |[Link]() |
 
