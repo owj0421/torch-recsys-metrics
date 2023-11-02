@@ -1,5 +1,5 @@
 # <div align="center"> TorchRecSysMetrics </div>
-<div align="center"> Recommender system metrics for efficient PyTorch applications. </div>
+<div align="center"> A library of Recommender system metrics for efficient PyTorch applications. </div>
 
 ## 🤗 What is TorchRecSysMetrics
 
@@ -16,6 +16,11 @@ Hello! TorchRecSysMetrics is a library that implements representative metrics of
 - Supports standardized interfaces tailored to recommendation system research.
 - All metrics support efficient Top-K operations.
 - Efficient calculation is possible through Tensor calculation in Batch units.
+
+## 📥 Installation
+
+## ⌨️ Using TorchRecSysMetrics
+
 
 ## 🗂 Implemented Metric Lists
 
