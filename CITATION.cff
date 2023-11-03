@@ -4,7 +4,6 @@ authors:
 - family-names: "Oh"
   given-names: "Wonjun"
 title: TorchRecsysMetrics: A library of pytorch based recsys metrics supports efficient tensor calculation.
-version: 0.0.0
-doi: 10.5281/zenodo.1234
+version: 0.0.1
 date-released: 2023-11-2
 url: https://github.com/owj0421/torch-recsys-metrics
