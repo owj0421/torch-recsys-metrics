@@ -26,14 +26,14 @@ Hello! TorchRecSysMetrics is a library that implements representative metrics of
 
 ### Rank Aware Metrics
 |Index|Metric                                                                                         |Review        |Implementation|
-|:---:|:---------------------------------------------------------------------------------------------:|:------------:|:------------:|
+|:---:|:----------------------------------------------------------------------------------------------|:------------:|:------------:|
 |1    |MAP (Mean Average Precision)                                                                   |[Link]() |[Link]() |
 |2    |MRR (Mean Reciprocal Rank)                                                                     |[Link]() |[Link]() |
 |3    |nDCG (normalized Discounted Cumulative Gain)                                                   |[Link]() |[Link]() |
 
 ### Rank Less Metrics
 |Index|Metric                                                                                         |Review        |Implementation|
-|:---:|:---------------------------------------------------------------------------------------------:|:------------:|:------------:|
+|:---:|:----------------------------------------------------------------------------------------------|:------------:|:------------:|
 |1    |RMSE (Root Mean Squared Error)                                                                 |[Link]() |[Link]() |
 |2    |MAE (Mean Absolute Error)                                                                      |[Link]() |[Link]() |
 
