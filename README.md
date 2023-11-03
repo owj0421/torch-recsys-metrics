@@ -25,7 +25,7 @@ Hello! TorchRecSysMetrics is a library that implements representative metrics of
 ## 🗂 Implemented Metric Lists
 
 ### Rank Aware Metrics
-|Index|Metric　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　|Review　　　　　　|Implementation|
+|Index|Metric　　　　　　　　　　|Review|Implementation|
 |:---:|:----------------------------------------------------------------------------------------------|:------------:|:------------:|
 |1    |MAP (Mean Average Precision)                                                                   |[Link]() |[Link]() |
 |2    |MRR (Mean Reciprocal Rank)                                                                     |[Link]() |[Link]() |
