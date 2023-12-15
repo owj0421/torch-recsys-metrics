@@ -1,7 +1,7 @@
 # <div align="center"> Torch RecSys Metrics </div>
 <div align="center"> Recommender system metrics for PyTorch applications. </div>
 
-## 🤗 What is TorchRecSysMetrics
+## 🤗 What is Torch RecSys Metrics
 
 안녕하세요! TorchRecSysMetrics는 추천시스템 논문에 자주 등장하는 대표적인 메트릭들을 Pytorch 기반으로 구현해놓은 라이브러리입니다. 논문 구현 라이브러리를 위해 만들었으나, 추천시스템을 찾거나 공부하는 학생들에게 도움이 되길 바랍니다. 자유롭게 사용 가능하나, 만약 코드에 잘못된 부분이 있다면 꼭 알려주세요.<br>
 
