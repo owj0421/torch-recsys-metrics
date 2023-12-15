@@ -1,5 +1,5 @@
 # <div align="center"> Torch RecSys Metrics </div>
-<div align="center"> Recommender system metrics for PyTorch applications. </div>
+<div align="center"> Implementation of Recommendation System Metrics with PyTorch </div>
 
 ## 🤗 What is Torch RecSys Metrics
 
